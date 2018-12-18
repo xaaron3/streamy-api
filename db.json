@@ -6,21 +6,14 @@
       "id": 1
     },
     {
-      "description": "here is some other stream",
-      "title": "other stream",
-      "id": 2
+      "title": "programmatic navigation test",
+      "description": "seeing it this works! REFACTOR",
+      "id": 5
     },
     {
-      "title": "i created this stream newest",
-      "description": "this was midgeted by me",
-      "userId": "101484664320938499743",
-      "id": 3
-    },
-    {
-      "title": "unexpected behavior",
-      "description": "didn't expect that",
-      "userId": "101484664320938499743",
-      "id": 4
+      "title": "me streaming component reuse",
+      "description": "watch me refactor components",
+      "id": 6
     }
   ]
 }
